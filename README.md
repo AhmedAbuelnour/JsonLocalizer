@@ -1,6 +1,6 @@
 # JsonLocalizer
 
-#Nuget
+# Nuget
 
 You can install JsonLocalizer [from Nuget](https://www.nuget.org/packages/JsonLocalizer/) 
 
