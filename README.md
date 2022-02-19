@@ -1,5 +1,10 @@
 # JsonLocalizer
 
+#Nuget
+
+You can install JsonLocalizer [from Nuget](https://www.nuget.org/packages/JsonLocalizer/) 
+
+
 # Introduction
 Json Localizer is a library, which make it easy to implement Json as a localization solution to your ASP.NET Core application.
 
